@@ -1,0 +1,14 @@
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WebDriver.dll
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WebDriver.Support.dll
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WebDriver.xml
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\bin\Release\WebDriver.Support.xml
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\ListProductToAmazon.listProductToAmazon.resources
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\ListProductToAmazon.csproj.GenerateResource.cache
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\ListProductToAmazon.csproj.CoreCompileInputs.cache
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\ListProductToAmazon.csproj.CopyComplete
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\DauQuan\Desktop\Tool-List-Product\tool_list_product\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
